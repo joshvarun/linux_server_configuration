@@ -9,7 +9,7 @@ A baseline installation of a Linux server is prepared to host web applications. 
 - The web application is [World Cuisines](https://github.com/joshvarun/WorldCuisines) created earlier in this Nanodegree program.
 - The database server is [PostgreSQL](https://www.postgresql.org/).
 
-Link to Application: http://ec2-13-233-237-95.ap-south-1.compute.amazonaws.com/
+Link to Application: ~~http://ec2-13-233-237-95.ap-south-1.compute.amazonaws.com/~~ (Shut down instance as I graduated from the ND)
 
 ## Setting up your instance
 
